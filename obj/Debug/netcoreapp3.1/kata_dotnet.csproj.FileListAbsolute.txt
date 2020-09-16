@@ -1,0 +1,13 @@
+C:\Users\Windows\Projects\kata_dotnet\bin\Debug\netcoreapp3.1\kata_dotnet.exe
+C:\Users\Windows\Projects\kata_dotnet\bin\Debug\netcoreapp3.1\kata_dotnet.deps.json
+C:\Users\Windows\Projects\kata_dotnet\bin\Debug\netcoreapp3.1\kata_dotnet.runtimeconfig.json
+C:\Users\Windows\Projects\kata_dotnet\bin\Debug\netcoreapp3.1\kata_dotnet.runtimeconfig.dev.json
+C:\Users\Windows\Projects\kata_dotnet\bin\Debug\netcoreapp3.1\kata_dotnet.dll
+C:\Users\Windows\Projects\kata_dotnet\bin\Debug\netcoreapp3.1\kata_dotnet.pdb
+C:\Users\Windows\Projects\kata_dotnet\obj\Debug\netcoreapp3.1\kata_dotnet.csprojAssemblyReference.cache
+C:\Users\Windows\Projects\kata_dotnet\obj\Debug\netcoreapp3.1\kata_dotnet.AssemblyInfoInputs.cache
+C:\Users\Windows\Projects\kata_dotnet\obj\Debug\netcoreapp3.1\kata_dotnet.AssemblyInfo.cs
+C:\Users\Windows\Projects\kata_dotnet\obj\Debug\netcoreapp3.1\kata_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Projects\kata_dotnet\obj\Debug\netcoreapp3.1\kata_dotnet.dll
+C:\Users\Windows\Projects\kata_dotnet\obj\Debug\netcoreapp3.1\kata_dotnet.pdb
+C:\Users\Windows\Projects\kata_dotnet\obj\Debug\netcoreapp3.1\kata_dotnet.genruntimeconfig.cache
